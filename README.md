@@ -1,6 +1,6 @@
-# Sergey Kalmykov
+<h1>Sergey Kalmykov
 
-<h2>System Analyst | Banking Domain</h2>
+System Analyst | Banking Domain</h2>
 
 Специализируюсь на:
 
