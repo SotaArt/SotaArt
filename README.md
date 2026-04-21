@@ -33,12 +33,10 @@ System Analyst | Banking Domain</h2>
 <h3>Основные проекты</h3>
 
 <b>Google Sheets Dashboard Automation</b>
-
-Автоматизация управленческой отчетности и KPI dashboard.
+- Автоматизация управленческой отчетности и KPI dashboard.
 
 <b>Bank Client Onboarding Analysis</b>
-
-Анализ и оптимизация процесса подключения клиента.
+- Анализ и оптимизация процесса подключения клиента.
 
 <h3>Цель</h3>
 
