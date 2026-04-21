@@ -5,29 +5,19 @@ System Analyst | Banking Domain</h2>
 <h3>Специализируюсь на:</h3>
 
 - анализе бизнес-процессов
-
 - автоматизации отчетности
-
 - проектировании решений
-
 - системном анализе
-
 - банковских процессах
 
 <h3>Основные навыки</h3>
 
 - Business Analysis
-
 - System Analysis
-
 - SQL
-
 - BPMN
-
 - REST API
-
 - Google Sheets
-
 - Automation
 
 <h3>Основные проекты</h3>
