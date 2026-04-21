@@ -14,7 +14,7 @@ System Analyst | Banking Domain</h2>
 
 банковских процессах
 
-Основные навыки
+<h3>Основные навыки</h3>
 
 Business Analysis
 
@@ -30,16 +30,16 @@ Google Sheets
 
 Automation
 
-Основные проекты
+<h3>Основные проекты</h3>
 
-Google Sheets Dashboard Automation
+<b>Google Sheets Dashboard Automation</b>
 
 Автоматизация управленческой отчетности и KPI dashboard.
 
-Bank Client Onboarding Analysis
+<b>Bank Client Onboarding Analysis</b>
 
 Анализ и оптимизация процесса подключения клиента.
 
-Цель
+<h3>Цель</h3>
 
 Развитие в роли системного аналитика в финтех и банковских проектах.
